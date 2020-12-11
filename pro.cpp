@@ -1,5 +1,7 @@
 #include <cstdio>
 int main() {
-  cout<<"Hello world";
+  int a;
+  cin >> a;
+  cout<<"Hello world"<<a;
   return 0;
 }
